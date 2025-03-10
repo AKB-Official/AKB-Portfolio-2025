@@ -1,0 +1,15 @@
+.main-container {
+    width: 70%;
+    margin-top: 14%;
+    margin-left: 15%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.main-container  h1 {
+    font-size: 75px;
+}
+
+.main-container h2 {
+    font-size: 45px;
+}

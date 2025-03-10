@@ -1,0 +1,37 @@
+.image-container img {
+    width: 340px;
+    height: 465px;
+    border-radius: 20px;
+}
+
+.whole-content-container {
+    display: flex;
+}
+
+.main-contnet-stuff {
+    width: 70%;
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.image-container {
+    margin-top: 12%;
+    margin-left: 20px;
+}
+
+.main-contnet-stuff p {
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 30px;
+}
+
+.main-contnet-stuff h1 {
+    text-align: center;
+}
+
+.my-skills-container {
+    margin-left: 20px;
+    width: 340px;
+    text-align: center;
+}
